@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "516778455637",
+    "project_id": "menta-3c01d",
+    "storage_bucket": "menta-3c01d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516778455637:android:f1a4e3c2058dc41e77dadc",
+        "android_client_info": {
+          "package_name": "menta.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDM0D5Rp5VAKz8M_VPaHO4LR-K3ga5cnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
